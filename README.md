@@ -14,12 +14,3 @@
 
 <p> My next aim is to build a section for Resources of Covid-19.
   
-### Special message for Hash Inklude community:
-### In this project you will learn:
-<p> ReactJS, JavaScript, FireBase
-
-#### NOTE: A detailed tutorial will be out on my YouTube channel in a short while. 
-  
-<p> Till then you can check out ReactJS documentation for getting started with it and also STAY TUNED to Hash Inklude on Instagram, YouTube and Twitter.
-    
-
